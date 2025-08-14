@@ -1,29 +1,55 @@
-<!-- ALPHA404: THE DIGITAL REAPER — FULL COPY-PASTE VERSION -->
+<!-- Header Section -->
+<h1 align="center">Hi 👋, I'm HITERRIR</h1>
+<h1 align="center">Hi 👋, I'm ETHICAL HACKER</h1>
+<h3 align="center">A CS student passion in Competitive Programming</h3>
 
-![Alpha404 Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
-# ⚠️🔥 ALPHA404: THE DIGITAL REAPER 🔥⚠️
-
-**Alias:** Alpha404  
-**Access Level:** ROOT // ABSOLUTE DOMINATION  
-**Status:** LOCKED & LOADED  
-**Objective:** INFILTRATE → EXFILTRATE → ANNIHILATE
-
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=3Emran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ---
-
-## 🚀 AGGRESSIVE HACKING TERMINAL PROMPT
-```bash
-$ whoami
-alias: Alpha404
-access_level: ROOT // UNSTOPPABLE
-status: HUNTING
-
-[00:00:01] Initializing Payload... ████████▒▒ 80%
-[00:00:02] AI> Scanning subnet... Found 66 live hosts
-[00:00:03] Flooding ports: 21, 22, 80, 443, 8080, 27017
-[00:00:04] Exploit Deployed → CVE-2025-404X [Kernel Breach]
-[00:00:05] AI> Defense Grid Override — SUCCESS
-[00:00:06] Remote Shell Established @ 10.66.6.6:1337
-[00:00:07] Injecting Wiper Module... ██████████ 95%
-[00:00:08] Data Wipe Engaged... ████████████ 100%
-[00:00:09] AI> Target System: OFFLINE — Mission Complete
+## 📊 GitHub Stats
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3Emran&show_icons=true&count_private=true&theme=tokyonight" alt="Emran's GitHub Stats" />
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Emran&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+---
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=3Emran&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+</p>
+---
+## 🛠️ Tech Stacks
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+---
+## 🌐 My Competitive Programming Handles
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Ascending" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://vjudge.net/user/emran_h" target="_blank">
+    <img src="https://img.shields.io/badge/VirtualJudge-6C757D?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualJudge" />
+  </a>
+  <a href="https://www.codechef.com/users/emran_h" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+---
+## 💡 About Me
+- 🚀 **Currently Working On**: Solving competitive programming challenges.
+- 📚 **Learning**: Data Structures, Algorithms, and Problem-Solving.
