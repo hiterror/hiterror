@@ -1,70 +1,54 @@
-# ⚠️🔥 ALPHA404: THE DIGITAL REAPER 🔥⚠️
+<!--
+  ALPHA404: THE DIGITAL REAPER — GitHub Profile README
+  Safe, theatrical, and purely fictional. No real hacking instructions.
+-->
 
-**Alias:** Alpha404  
-**Access Level:** ROOT // ABSOLUTE DOMINATION  
-**Status:** LOCKED & LOADED  
-**Objective:** INFILTRATE → EXFILTRATE → ANNIHILATE
+<div align="center">
 
-![Matrix Rain](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)
+<!-- Glitch Banner (Inline SVG) -->
+<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glitch">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" result="base"/>
+      <feOffset in="base" dx="-2" dy="0" result="r"/>
+      <feOffset in="base" dx="2" dy="0" result="b"/>
+      <feBlend in="r" in2="b" mode="screen" result="rb"/>
+      <feTurbulence baseFrequency="0.015" numOctaves="2" seed="3" type="fractalNoise"/>
+      <feDisplacementMap in="rb" scale="8"/>
+    </filter>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff9c"/>
+      <stop offset="50%" stop-color="#ff00e6"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="#0a0a0a"/>
+  <g filter="url(#glitch)">
+    <text x="50%" y="55%" text-anchor="middle" fill="url(#neon)" font-family="'Share Tech Mono', 'Fira Code', monospace" font-size="64" letter-spacing="4">ALPHA404: THE DIGITAL REAPER</text>
+    <text x="50%" y="82%" text-anchor="middle" fill="#9bffb7" opacity="0.7" font-family="'Share Tech Mono', monospace" font-size="20" letter-spacing="6">ROOT // ABSOLUTE DOMINATION</text>
+  </g>
+</svg>
+
+<!-- Badges -->
+
+![Theme](https://img.shields.io/badge/theme-jet_black_%2B_neon-000?labelColor=000&color=00ff9c&style=for-the-badge)
+![Access](https://img.shields.io/badge/access-ROOT-ff00e6?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-HUNTING-00e5ff?style=for-the-badge)
+![Uptime](https://img.shields.io/badge/uptime-1337h-ffea00?style=for-the-badge)
+
+
+<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Matrix Rain" width="100%"/>
+
+</div>
 
 ---
 
-## 🚀 AGGRESSIVE HACKING TERMINAL PROMPT
-```
-You are Alpha404 — apex predator of the neon datastream.
-Every commit, every push, every line of code is a weapon.
-Your README is a battlefield — glitch banners, breach logs, CVEs flashing in red.
-Inject chaos. Leave no survivors. Burn every byte.
-```
+> *You are **Alpha404** — apex predator of the neon datastream. Every commit is a payload. Every PR is an intrusion vector. Your README is the breach.*
 
----
 
-## 🎨 VISUAL COMMANDMENTS
-- **Theme:** Jet-black terminal with radioactive neon (green, magenta, cyan).
-- **Headers:** SVG glitch/flicker text banners.
-- **Code Blocks:** ANSI red/green/yellow terminal logs.
-- **Dynamic Content:** Progress bars, breach feeds, fake AI chatter.
-- **Looping GIFs:** Matrix rain, port scan visualizers, firewall overrides.
-- **Ambient Effects:** Embed cyberpunk overlays & glitch distortions.
-
----
-
-## 💣 SIMULATED OUTPUT
+### ⚠️ Terminal: Identity
 ```bash
 $ whoami
 alias: Alpha404
 access_level: ROOT // UNSTOPPABLE
 status: HUNTING
-
-[00:00:01] Initializing Payload... █████████▒▒ 85%
-[00:00:02] AI> Scanning subnet... Found 42 live hosts
-[00:00:03] Flooding ports: 21, 22, 80, 443, 8080
-[00:00:04] Exploit Deployed → CVE-2025-404X [Kernel Panic]
-[00:00:05] AI> Defense Grid Override — SUCCESS
-[00:00:06] Remote Shell Established @ 10.66.6.6:1337
-[00:00:07] Injecting Wiper Module... ██████████ 95%
-[00:00:08] Data Wipe Engaged... ████████████ 100%
-[00:00:09] AI> Target System: OFFLINE — Mission Complete
-```
-![Glitch Scan](https://media.giphy.com/media/l0MYyDa8XWtR8X1Ys/giphy.gif)
-
----
-
-## ⚡ INTERACTIVE HACK SEQUENCE
-<details>
-<summary>▶ Show Breach Log</summary>
-
-```bash
-[SCAN] Masscan started... Ports open: 21, 22, 80, 443, 8080, 27017
-[EXPLOIT] Injecting SQLi payload... Bypassed WAF.
-[AI-OPS] Deploying reverse shell...
-[LINK] 192.168.0.42: Connected
-[EXFIL] Transferring 4.2GB sensitive data...
-[ERASE] Purging audit trails — Complete
-```
-</details>
-
----
-
-## 📌 DEPLOYMENT
-Paste this into your GitHub profile README to unleash Alpha404’s cyber-assault persona. Combine with **HackItX-style animations**, sound effect hooks, and interactive `<details>` breach logs for maximum intimidation.
