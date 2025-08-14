@@ -1,54 +1,29 @@
-<!--
-  ALPHA404: THE DIGITAL REAPER — GitHub Profile README
-  Safe, theatrical, and purely fictional. No real hacking instructions.
--->
+<!-- ALPHA404: THE DIGITAL REAPER — FULL COPY-PASTE VERSION -->
 
-<div align="center">
+![Alpha404 Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-<!-- Glitch Banner (Inline SVG) -->
-<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glitch">
-      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" result="base"/>
-      <feOffset in="base" dx="-2" dy="0" result="r"/>
-      <feOffset in="base" dx="2" dy="0" result="b"/>
-      <feBlend in="r" in2="b" mode="screen" result="rb"/>
-      <feTurbulence baseFrequency="0.015" numOctaves="2" seed="3" type="fractalNoise"/>
-      <feDisplacementMap in="rb" scale="8"/>
-    </filter>
-    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ff9c"/>
-      <stop offset="50%" stop-color="#ff00e6"/>
-      <stop offset="100%" stop-color="#00e5ff"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="180" fill="#0a0a0a"/>
-  <g filter="url(#glitch)">
-    <text x="50%" y="55%" text-anchor="middle" fill="url(#neon)" font-family="'Share Tech Mono', 'Fira Code', monospace" font-size="64" letter-spacing="4">ALPHA404: THE DIGITAL REAPER</text>
-    <text x="50%" y="82%" text-anchor="middle" fill="#9bffb7" opacity="0.7" font-family="'Share Tech Mono', monospace" font-size="20" letter-spacing="6">ROOT // ABSOLUTE DOMINATION</text>
-  </g>
-</svg>
+# ⚠️🔥 ALPHA404: THE DIGITAL REAPER 🔥⚠️
 
-<!-- Badges -->
-
-![Theme](https://img.shields.io/badge/theme-jet_black_%2B_neon-000?labelColor=000&color=00ff9c&style=for-the-badge)
-![Access](https://img.shields.io/badge/access-ROOT-ff00e6?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-HUNTING-00e5ff?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/uptime-1337h-ffea00?style=for-the-badge)
-
-
-<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Matrix Rain" width="100%"/>
-
-</div>
+**Alias:** Alpha404  
+**Access Level:** ROOT // ABSOLUTE DOMINATION  
+**Status:** LOCKED & LOADED  
+**Objective:** INFILTRATE → EXFILTRATE → ANNIHILATE
 
 ---
 
-> *You are **Alpha404** — apex predator of the neon datastream. Every commit is a payload. Every PR is an intrusion vector. Your README is the breach.*
-
-
-### ⚠️ Terminal: Identity
+## 🚀 AGGRESSIVE HACKING TERMINAL PROMPT
 ```bash
 $ whoami
 alias: Alpha404
 access_level: ROOT // UNSTOPPABLE
 status: HUNTING
+
+[00:00:01] Initializing Payload... ████████▒▒ 80%
+[00:00:02] AI> Scanning subnet... Found 66 live hosts
+[00:00:03] Flooding ports: 21, 22, 80, 443, 8080, 27017
+[00:00:04] Exploit Deployed → CVE-2025-404X [Kernel Breach]
+[00:00:05] AI> Defense Grid Override — SUCCESS
+[00:00:06] Remote Shell Established @ 10.66.6.6:1337
+[00:00:07] Injecting Wiper Module... ██████████ 95%
+[00:00:08] Data Wipe Engaged... ████████████ 100%
+[00:00:09] AI> Target System: OFFLINE — Mission Complete
