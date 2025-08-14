@@ -39,16 +39,7 @@
 ---
 ## 🌐 My Competitive Programming Handles
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/Ascending" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://vjudge.net/user/emran_h" target="_blank">
-    <img src="https://img.shields.io/badge/VirtualJudge-6C757D?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualJudge" />
-  </a>
-  <a href="https://www.codechef.com/users/emran_h" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
+  
 ---
 ## 💡 About Me
 - 🚀 **Currently Working On**: Solving competitive programming challenges.
