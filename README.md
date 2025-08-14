@@ -1,58 +1,48 @@
 <!--
-██╗  ██╗██╗████████╗███████╗██████╗ ██████╗  ██████╗ ██████╗
-██║  ██║██║╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██╔═══██╗██╔══██╗
-███████║██║   ██║   █████╗  ██████╔╝██████╔╝██║   ██║██████╔╝
-██╔══██║██║   ██║   ██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██╔═══╝
-██║  ██║██║   ██║   ███████╗██║  ██║██║     ╚██████╔╝██║     
-╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝     
+██████╗ ██╗███╗   ███╗███████╗██████╗ ██████╗  ██████╗ ██████╗
+██╔══██╗██║████╗ ████║██╔════╝██╔══██╗██╔══██╗██╔═══██╗██╔══██╗
+██████╔╝██║██╔████╔██║█████╗  ██████╔╝██████╔╝██║   ██║██████╔╝
+██╔═══╝ ██║██║╚██╔╝██║██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██╔═══╝ 
+██║     ██║██║ ╚═╝ ██║███████╗██║  ██║██║     ╚██████╔╝██║     
+╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝     
 
 Hacker Alias: Alpha404 | GitHub: hiterror | Email: Arfinafi69@gmail.com
 Facebook: https://www.facebook.com/Arfinafi69 | Telegram: https://t.me/ARFINAFI
 -->
 
-![Matrix Rain](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
+![Matrix Rain](https://media.giphy.com/media/3o7TKP9FhGH8wTKq08/giphy.gif)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&color=00FF00&center=true&vCenter=true&lines=$+whoami;Alpha404;Root+Access+Granted;Engage+the+System;Execute+Payload" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3500&color=FF0000&center=true&vCenter=true&lines=ACCESS+GRANTED;Alpha404;System+Control+Active;Execute+Cyber+Protocol" />
 </h1>
 
 ---
 
-## 🛠️ **Hacker Profile**
+## 🛡 **[WHOAMI]**
 ```bash
 $ whoami
-> Alias: Alpha404
-> Access Level: ROOT // FULL SYSTEM PRIVILEGES
-> Threat Level: CRITICAL
-> Location: [REDACTED]
-> Status: ONLINE
-> Primary Directive: Breach. Extract. Erase.
-$ skills --list
-[██████████████] Python  | ████████████▓▒░ 99%
-[███████████---] Bash    | █████████▓▒░░░ 85%
-[█████████-----] JS/Node | ███████▓▒▒░░░░ 70%
-[████████------] SQL/NoSQL | ██████▓▒▒▒░░░ 65%
-[EXPLOIT FRAMEWORKS]
-  - Metasploit, Cobalt Strike, Empire
-
-[LANGUAGES]
-  - Python, Go, Bash, JavaScript, Rust
-
-[NETWORK]
-  - Nmap, Wireshark, Masscan, Aircrack-ng
-
-[WEB]
-  - Burp Suite, SQLmap, XSSer
-[00:00:01] Initializing Exploit... [███████-----] 73%
-[00:00:05] Scanning Network... Ports: 21(OPEN), 22(OPEN), 80(OPEN), 3306(OPEN)
-[00:00:12] Vulnerability Found: CVE-2025-1337 - Remote Code Execution
-[00:00:16] Payload Deployed: reverse_shell.py
-[00:00:18] Connection Established: 192.168.0.66:1337 -> ROOT
-[00:00:21] Data Extraction... ██████████████▒░░ 93%
-[00:00:27] Trace Removal Complete.
-[31m[ALERT] Unauthorized Access Detected[0m
-[33m[WARNING] System Breach In Progress[0m
-[35m[NOTICE] Tracking Disabled[0m
-$ ./alpha404_ai.sh
-AI> Hello, Alpha404. All systems operational.
-AI> Target acquired. Engaging infiltration protocol.
+alias: Alpha404
+access_level: ROOT // FULL OVERRIDE
+status: ACTIVE
+primary_objective: Breach > Extract > Obliterate
+[██████████████] Python      99%
+[███████████---] Bash        85%
+[█████████-----] JS/Node     70%
+[████████------] SQL/NoSQL   65%
+EXPLOIT KITS: Metasploit, Empire, Cobalt Strike
+NETWORK OPS: Nmap, Wireshark, Masscan
+WEB OPS: Burp Suite, SQLmap, XSSer
+LANGUAGES: Python, Go, Rust, Bash
+[00:00:01] Initializing backdoor... ████████▒▒▒ 78%
+[00:00:04] Scanning 192.168.0.0/24... Ports OPEN: 21, 22, 80, 443
+[00:00:07] Exploit Loaded: CVE-2025-1337 [RCE]
+[00:00:09] Reverse Shell Established → 10.0.0.5:1337
+[00:00:12] Data siphon... ██████████░░ 87%
+[00:00:15] Purging logs... COMPLETE
+\u001b[31m[ALERT] Unauthorized Access Logged\u001b[0m
+\u001b[33m[WARNING] Firewall Override\u001b[0m
+\u001b[35m[NOTICE] Stealth Mode Enabled\u001b[0m
+$ ./alpha404_ai --engage
+AI> Monitoring darknets...
+AI> Target lock confirmed.
+AI> Deploying payload.
