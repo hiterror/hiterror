@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm HITERRIR</h1>
+<h1 align="center">Hi 👋, I'm HITERROR</h1>
 <h1 align="center">Hi 👋, I'm ETHICAL HACKER</h1>
 <h3 align="center">A CS student passion in Competitive Programming</h3>
 
